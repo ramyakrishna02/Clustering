@@ -9,7 +9,7 @@ Clustering can be used for market segmentation, social network analysis, search 
 Hierarchical clustering is an unsupervised machine learning algorithm that is used to group unlabeled datasets into a cluster. It is also known as hierarchical cluster analysis or HCA. 
 In this algorithm, we develop the hierarchy of clusters in the form of a tree, and this tree-shaped structure is known as the dendrogram. 
 The hierarchical clustering technique has two approaches: 
-Agglomerative and Divisive
+Agglomerative and Divisive.
 
 
 ### K-Means Clustering:
@@ -21,7 +21,7 @@ The method starts by randomly selecting k initial centroids, then assigns each o
 ### DBSCAN Clustering:
 
 DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise. 
-It is a density-based clustering algorithm that groups together points that are close to each other based on a distance measurement and a minimum number of points. The algorithm increases regions with sufficiently high density into clusters and finds clusters of arbitrary architecture in spatial databases with noise. It represents a cluster as a maximum group of density-connected points
+It is a density-based clustering algorithm that groups together points that are close to each other based on a distance measurement and a minimum number of points. The algorithm increases regions with sufficiently high density into clusters and finds clusters of arbitrary architecture in spatial databases with noise. It represents a cluster as a maximum group of density-connected points.
 
 ## Implementation
 - Importing the required Libraries and Reading the dataset
